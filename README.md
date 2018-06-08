@@ -1,2 +1,1 @@
-# Mastering-Deep-Learning-with-Java-
-Mastering Deep Learning with Java, published by Packt
+# The code for this repository is under development :construction_worker:
